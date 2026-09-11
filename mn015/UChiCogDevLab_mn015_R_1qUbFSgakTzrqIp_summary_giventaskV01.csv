@@ -1,0 +1,4 @@
+"participant","gn_pid","gn_siteid","Query","NumTrials","accuracy","AccPass","SpecificityPass","AccCumul","SpecificityCumul","KnowerLevel"
+"UChiCogDevLab_mn015","mn015","UChiCogDevLab",1,1,1,1,1,1,1,"not_calculated"
+"UChiCogDevLab_mn015","mn015","UChiCogDevLab",2,1,1,1,1,1,1,"not_calculated"
+"UChiCogDevLab_mn015","mn015","UChiCogDevLab",4,1,1,1,1,0,1,"not_calculated"
